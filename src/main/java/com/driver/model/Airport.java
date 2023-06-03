@@ -20,22 +20,27 @@ public class Airport {
     }
 
     public String getAirportName() {
+
         return airportName;
     }
 
     public void setAirportName(String airportName) {
-        this.airportName = airportName;
+
+        airportName = airportName;
     }
 
     public int getNoOfTerminals() {
+
         return noOfTerminals;
     }
 
     public void setNoOfTerminals(int noOfTerminals) {
+
         this.noOfTerminals = noOfTerminals;
     }
 
     public City getCity() {
+
         return city;
     }
 
